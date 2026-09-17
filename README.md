@@ -71,6 +71,10 @@ open index.html
 - Pitch and shot map rendered as SVG; the event‑density timeline is rendered on `<canvas>`.
 - Deployed via GitHub Pages directly from this repository.
 
+## Credit
+
+Inspired by the Executive Formula 1 dashboard from David Hurtado — [Telemetría F1 · GP de Bélgica 2026 · Spa-Francorchamps · Antonelli vs Verstappen](https://davidhurtadoai.github.io/Explorations/Formula1-Spa2026.html).
+
 ---
 
 *Built as a FerPilot exploration of how AI can transform raw sports data into an interactive story — one prompt, full ownership, from raw event feed to finished data product.*
